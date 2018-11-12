@@ -1,0 +1,27 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "Repo to push work to as part of learning",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsamania/learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsamania/learning/issues"
+  },
+  "homepage": "https://github.com/marsamania/learning#readme"
+}
